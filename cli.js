@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 //$0: <zite root> <out dir>
 const path = require("path")
 const fs = require("fs")
