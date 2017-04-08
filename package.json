@@ -1,6 +1,6 @@
 {
   "name": "zero-decompiler",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Decompile a ZeroNet Zite in seconds",
   "main": "index.js",
   "scripts": {
