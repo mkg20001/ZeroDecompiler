@@ -1,0 +1,19 @@
+{
+  "name": "zero-decompiler",
+  "version": "0.0.1",
+  "description": "Decompile a ZeroNet Zite in seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zeronet",
+    "decompiler"
+  ],
+  "author": "Maciej Krüger <mkg20001@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "js2coffee": "^2.2.0",
+    "mkdirp": "^0.5.1"
+  }
+}
