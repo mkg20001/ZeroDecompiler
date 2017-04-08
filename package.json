@@ -1,8 +1,9 @@
 {
   "name": "zero-decompiler",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Decompile a ZeroNet Zite in seconds",
   "main": "index.js",
+  "bin": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
